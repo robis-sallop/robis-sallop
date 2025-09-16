@@ -39,7 +39,6 @@
 
 ### 🔒 **Ciberseguridad:**  
 - 🛡️ **Análisis de Vulnerabilidades**  
-- 🔍 **Pruebas de Penetración (Pentesting)**  
 - 📜 **Análisis de Logs**  
 
 ### 📚 **Otras Herramientas:**  
