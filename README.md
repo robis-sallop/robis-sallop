@@ -41,7 +41,6 @@
 - 🛡️ **Análisis de Vulnerabilidades**  
 - 🔍 **Pruebas de Penetración (Pentesting)**  
 - 📜 **Análisis de Logs**  
-- 🕵️ **OSINT**  
 
 ### 📚 **Otras Herramientas:**  
 - 🎭 **Photoshop (PS)**  
